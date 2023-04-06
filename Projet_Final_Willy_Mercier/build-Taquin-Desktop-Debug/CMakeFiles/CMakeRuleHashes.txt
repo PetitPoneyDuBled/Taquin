@@ -1,0 +1,6 @@
+# Hashes of file build rules.
+315083be8be7debe844d9be184b322aa /home/etud/Bureau/S6/interface/Projet_Final_Willy_Mercier/Taquin/Annotations_en_US.ts
+49572adcec14acbf3cb49f7de291f5dd /home/etud/Bureau/S6/interface/Projet_Final_Willy_Mercier/Taquin/Annotations_fr_FR.ts
+8ffd21806e1dd2ee98d8401f92d90840 Annotations_en_US.qm
+bed329926377e8e554456cbad6331bae Annotations_fr_FR.qm
+9e05d6ae3942ce904d7046501b1d639d CMakeFiles/Taquin_autogen

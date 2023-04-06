@@ -1,0 +1,38 @@
+Taquin (CPP/Qt)
+
+Le but de ce projet est de créer le jeu du Taquin en utilisant Qt et C++. Cela implique de concevoir une interface graphique convivi.mp4ale et de gérer les fonctionnalités du jeu.
+
+POUR COMMENCER
+
+Pour lancer mon programme sur une machine Linux, vous devez l'exécuter via QtCreator. Une fois que vous avez ouvert le projet dans QtCreator, vous pouvez simplement appuyer sur F5 pour démarrer le programme.
+
+PRE-REQUIS
+
+Ce qu'il est requis pour commencer avec votre projet...
+
+    Il est requis d'avoir le package qt5-linguist-tools
+    ainsi que le package Widget (qui est normalement installé de base via QtCreator)
+
+INSTALLATION
+
+Pour lancer le programme, il vous donc avoir QtCreator que vous pouvez télécharger via ce lien :
+
+https://www.qt.io/download
+
+Ainsi que les paquets "pré-requis" que vous pouvez installer via ces commandes:
+
+sudo apt-get install qt5-linguist-tools
+
+Pour installer le programme vous devez lancer QtCreator et enfin ouvrir via QtCreator le dossier taquin.
+
+RENDUE
+    La vidéo "presentation_projet_Qt_2023.mp4" vous montrera les fonctionnalités du projet, ainsi que son rendue (pas dans le fichier car trop lourde)
+
+PROBLEMES NOTABLES 
+    IL y un problème notable dans mon code , lorsque je remplace mes tuiles par une image, le bord droit des tuiles n'est pas tout à fait bien remplacer, il semblerait que cela soit dûe à ma génération de mes tuiles mais je n'ai pas réussie à régler le problème
+    
+VERSIONS 
+    Ce programme fonctionne au minimum sous Qt5 mais il est fonctionnel également en Qt6
+    
+    
+    Willy MERCIER

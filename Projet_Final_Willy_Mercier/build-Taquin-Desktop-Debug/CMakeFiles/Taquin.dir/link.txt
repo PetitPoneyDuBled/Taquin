@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/Taquin.dir/Taquin_autogen/mocs_compilation.cpp.o CMakeFiles/Taquin.dir/main.cpp.o CMakeFiles/Taquin.dir/mainwindow.cpp.o CMakeFiles/Taquin.dir/newgame.cpp.o -o Taquin  /usr/lib/x86_64-linux-gnu/libQt5Widgets.so.5.15.2 /usr/lib/x86_64-linux-gnu/libQt5Gui.so.5.15.2 /usr/lib/x86_64-linux-gnu/libQt5Core.so.5.15.2 

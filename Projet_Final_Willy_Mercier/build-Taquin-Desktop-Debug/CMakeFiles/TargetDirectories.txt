@@ -1,0 +1,4 @@
+/home/etud/Bureau/S6/interface/Projet_Final_Willy_Mercier/build-Taquin-Desktop-Debug/CMakeFiles/Taquin.dir
+/home/etud/Bureau/S6/interface/Projet_Final_Willy_Mercier/build-Taquin-Desktop-Debug/CMakeFiles/edit_cache.dir
+/home/etud/Bureau/S6/interface/Projet_Final_Willy_Mercier/build-Taquin-Desktop-Debug/CMakeFiles/rebuild_cache.dir
+/home/etud/Bureau/S6/interface/Projet_Final_Willy_Mercier/build-Taquin-Desktop-Debug/CMakeFiles/Taquin_autogen.dir
